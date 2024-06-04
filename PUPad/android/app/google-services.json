@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1018833049347",
+    "project_id": "pupad-2a339",
+    "storage_bucket": "pupad-2a339.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018833049347:android:0f19883420b1b149243b36",
+        "android_client_info": {
+          "package_name": "com.example.note_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgLfU-wWyfGdTdNiXj9Z7mUwVPEWB4ZEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018833049347:android:d21d0159fe8d0409243b36",
+        "android_client_info": {
+          "package_name": "com.rubio.pupad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgLfU-wWyfGdTdNiXj9Z7mUwVPEWB4ZEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
